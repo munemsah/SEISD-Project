@@ -32,9 +32,8 @@
         <div class="dropdown-menu" aria-labelledby="dropdownId">
         <a class="dropdown-item" href="#">Registration as a Volunteer</a>
         <a class="dropdown-item" href="#">Bolod Donation Process</a>
-        <a class="dropdown-item" href="#">Blood Types</a>
-        <a class="dropdown-item" href="#">Eligibility</a>
-        <a class="dropdown-item" href="#">Events</a>
+        <a class="dropdown-item" href="bloodtype.php#">Blood Types</a>
+        <a class="dropdown-item" href="eligibility.php">Eligibility</a>
         <a class="dropdown-item" href="#">FAQ</a>
         </div>
       </li>

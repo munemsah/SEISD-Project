@@ -13,10 +13,10 @@
       <img src="new-year-new-blood.gif" class="d-block w-100" alt="...">
     </div>
     <div class="carousel-item">
-      <img src="giftblood.jpg" class="d-block w-100" alt="...">
+      <img src="Image-up\giftblood.jpg" class="d-block w-100" alt="...">
     </div>
     <div class="carousel-item">
-      <img src="blood2.jpg" class="d-block w-100" alt="...">
+      <img src="Image-up\blood2.jpg" class="d-block w-100" alt="...">
     </div>
   </div>
   <a class="carousel-control-prev" href="#carouselExampleIndicators" role="button" data-slide="prev">
