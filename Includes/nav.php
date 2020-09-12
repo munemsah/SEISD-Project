@@ -38,7 +38,7 @@
         </div>
       </li>
       <li class="nav-item">
-        <a class="nav-link text-danger" href="#">Blood Bank</a>
+        <a class="nav-link text-danger" href="#">Near me</a>
       </li>
       <li class="nav-item">
         <a class="nav-link text-white" href="aboutus.php">About us</a>
