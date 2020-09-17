@@ -1,6 +1,8 @@
 <?php include("includes/header.php")  ?>
 <?php include("includes/nav.php")  ?>
 <?php include("DBconnection/connection.php") ?>
+<title>Volunteer Registration</title>
+
 
 <?php
 

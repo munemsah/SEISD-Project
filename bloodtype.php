@@ -1,6 +1,13 @@
 <?php include("includes/header.php")  ?>
 <?php include("includes/nav.php")  ?>
+<title>Blood Type</title>
 
+
+
+<img src="Image-up\Screenshot_5.jpg" class="card-img-top mx-auto d-block" alt="..." >
+  <div class="card-body justify-content-center">
+
+  
 <div class="container">
 <br>
 <br>

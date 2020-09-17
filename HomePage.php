@@ -2,6 +2,8 @@
 <?php include("includes/nav.php")  ?>
 
 
+<title>Home</title>
+
 <div id="carouselExampleIndicators" class="carousel slide" data-ride="carousel">
   <ol class="carousel-indicators">
     <li data-target="#carouselExampleIndicators" data-slide-to="0" class="active"></li>
@@ -10,10 +12,10 @@
   </ol>
   <div class="carousel-inner">
     <div class="carousel-item active">
-      <img src="new-year-new-blood.gif" class="d-block w-100" alt="...">
+      <img src="Image-up\new-year-new-blood.gif" class="d-block w-100" alt="...">
     </div>
     <div class="carousel-item">
-      <img src="Image-up\giftblood.jpg" class="d-block w-100" alt="...">
+      <img src="Image-up\giveblood.jpg" class="d-block w-100" alt="...">
     </div>
     <div class="carousel-item">
       <img src="Image-up\blood2.jpg" class="d-block w-100" alt="...">
@@ -43,7 +45,7 @@
 	<div class="row">
 	<div class="col-lg-4 col-md-4 col-12">
 	<div class="card">
-  <img class="card-img-top" src="111.jpg" alt="Card image">
+  <img class="card-img-top" src="Image-up\111.jpg" alt="Card image">
   		<div class="card-body">
     		<h4  class="card-title">REGISTRATION</h4>
     			<p> You need to complete a very simple registration form. Which contains all required contact information to enter in the donation process.</p>
@@ -53,7 +55,7 @@
 
 <div class="col-lg-4 col-md-4 col-12">
 	<div class="card">
-  <img class="card-img-top" src="113.jpeg" alt="Card image">
+  <img class="card-img-top" src="Image-up\113.jpeg" alt="Card image">
   		<div class="card-body">
     		<h4  class="card-title">SCREENING</h4>
     			<p> A drop of blood from your finger will take for simple test to ensure that your blood iron levels are proper enough for donation process.</p>
@@ -63,7 +65,7 @@
 
 		<div class="col-lg-4 col-md-4 col-12">
 				<div class="card">
-			  <img class="card-img-top" src="115.jpg" alt="Card image">
+			  <img class="card-img-top" src="Image-up\115.jpg" alt="Card image">
 				<div class="card-body">
 					<h4  class="card-title">DONATION</h4>
     			<p> After ensuring and passed screening test successfully you will be directed to a donor bed for donation. It will take only 6-10 minutes.</p>
@@ -86,7 +88,7 @@
 	<div class="row">
 	<div class="col-lg-4 col-md-4 col-12">
 	<div class="card">
-  <img class="card-img-top" src="image1.jpg" alt="Card image">
+  <img class="card-img-top" src="Image-up\image1.jpg" alt="Card image">
   <a href="#" class="btn btn-warning  text-uppercase ">Dhaka</a>
 		</div>
 		
@@ -94,7 +96,7 @@
 
 <div class="col-lg-4 col-md-4 col-12">
 	<div class="card">
-  <img class="card-img-top" src="image5.jpeg" alt="Card image">
+  <img class="card-img-top" src="Image-up\image5.jpeg" alt="Card image">
   		<a href="#" class="btn btn-warning text-uppercase ">Chittagong</a>
 	</div>
 	
@@ -102,28 +104,28 @@
 
 		<div class="col-lg-4 col-md-4 col-12">
 				<div class="card">
-			  <img class="card-img-top" src="image2.jpeg" alt="Card image">
+			  <img class="card-img-top" src="Image-up\image2.jpeg" alt="Card image">
 				<a href="#" class="btn btn-warning  text-uppercase">Rajshahi</a>
 				</div>
 				
 		</div>
 			<div class="col-lg-4 col-md-4 col-12">
 				<div class="card">
-			  <img class="card-img-top" src="image11.jpg" alt="Card image">
+			  <img class="card-img-top" src="Image-up\image11.jpg" alt="Card image">
 				<a href="#" class="btn btn-warning text-uppercase">Sylhet</a>
 				</div>
 				
 			</div>
 			<div class="col-lg-4 col-md-4 col-12">
 				<div class="card">
-			  <img class="card-img-top" src="image12.jpg" alt="Card image">
+			  <img class="card-img-top" src="Image-up\image12.jpg" alt="Card image">
 				<a href="#" class="btn btn-warning text-uppercase ">Khulna</a>
 				</div>
 				
 			</div>
 			<div class="col-lg-4 col-md-4 col-12">
 				<div class="card">
-			  <img class="card-img-top" src="image13.jpg" alt="Card image">
+			  <img class="card-img-top" src="Image-up\image13.jpg" alt="Card image">
 				<a href="#" class="btn btn-warning text-uppercase">Rangpur</a>
 				</div>
 				

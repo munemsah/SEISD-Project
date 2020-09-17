@@ -20,7 +20,7 @@
 
       <!-- Content -->
       
-      <h3 class="font-weight-bold text-danger mt-3 mb-4 "> <img src="blood22.WEBP" alt="logo" style="width:40px;">&nbsp; BlueBlood</h3>
+      <h3 class="font-weight-bold text-danger mt-3 mb-4 "> <img src="Image-up\blood22.WEBP" alt="logo" style="width:40px;">&nbsp; BlueBlood</h3>
       <p class="text-justify text-white">We are world largest and trustful blood donation center. We have been working since 1973 with a prestigious vision to helping patient to provide blood. We are working all over the world, organizing blood donation campaign to grow awareness among the people to donate blood.</p>
 
     </div>

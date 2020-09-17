@@ -1,8 +1,11 @@
 <?php include("includes/header.php")  ?>
 <?php include("includes/nav.php")  ?>
 
+
+<title>About us</title>
+
 <div class="card bg-dark text-white">
-  <img src="300.jpg" class="card-img" alt="...">
+  <img src="Image-up\300.jpg" class="card-img" alt="...">
   <div class="card-img-overlay">
   <br>
   <br>

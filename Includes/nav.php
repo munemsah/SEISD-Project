@@ -1,7 +1,7 @@
 <nav class="navbar navbar-expand-sm navbar-light bg-light">
   <a class="navbar-brand" href="#"> 
   &nbsp;&nbsp;
-      <img src="blood22.WEBP" alt="logo" style="width:40px;">
+      <img src="Image-up\blood22.WEBP" alt="logo" style="width:40px;">
   </a>
 
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
@@ -30,11 +30,11 @@
       <li class="nav-item dropdown">
         <a class="nav-link dropdown-toggle text-white" href="#" id="dropdownId" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Pages</a>
         <div class="dropdown-menu" aria-labelledby="dropdownId">
-        <a class="dropdown-item" href="#">Registration as a Volunteer</a>
-        <a class="dropdown-item" href="#">Bolod Donation Process</a>
+        <a class="dropdown-item" href="volunteerreg.php">Registration as a Volunteer</a>
+        <a class="dropdown-item" href="process.php">Bolod Donation Process</a>
         <a class="dropdown-item" href="bloodtype.php#">Blood Types</a>
         <a class="dropdown-item" href="eligibility.php">Eligibility</a>
-        <a class="dropdown-item" href="#">FAQ</a>
+        <a class="dropdown-item" href="faq.php">FAQ</a>
         </div>
       </li>
       <li class="nav-item">
