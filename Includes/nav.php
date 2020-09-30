@@ -1,11 +1,10 @@
-<nav class="navbar navbar-expand-sm navbar-light bg-light">
+<nav class="navbar navbar-expand-sm navbar-light bg-light " style="font-family:Comic Sans MS;">
   <a class="navbar-brand" href="#"> 
   &nbsp;&nbsp;
       <img src="Image-up\blood22.WEBP" alt="logo" style="width:40px;">
   </a>
 
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+  
   <button class="navbar-toggler d-lg-none" type="button" data-toggle="collapse" data-target="#collapsibleNavId" aria-controls="collapsibleNavId"
       aria-expanded="false" aria-label="Toggle navigation">
     <span class="navbar-toggler-icon"></span>
@@ -19,13 +18,13 @@
         <a class="nav-link text-white" href="#">Find Donor</a>
       </li>
       <li class="nav-item">
-        <a class="nav-link text-danger" href="#">Donate Blood</a>
+        <a class="nav-link text-danger" href="DonorReg.php">Donate Blood</a>
       </li>
       <li class="nav-item">
-        <a class="nav-link text-white" href="#">Request for blood</a>
+        <a class="nav-link text-white" href="BloodRequest.php">BloodRequest</a>
       </li>
       <li class="nav-item">
-        <a class="nav-link text-danger" href="#">Campaign</a>
+        <a class="nav-link text-danger" href="#">Blood Bank</a>
       </li>
       <li class="nav-item dropdown">
         <a class="nav-link dropdown-toggle text-white" href="#" id="dropdownId" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Pages</a>
@@ -34,6 +33,7 @@
         <a class="dropdown-item" href="process.php">Bolod Donation Process</a>
         <a class="dropdown-item" href="bloodtype.php#">Blood Types</a>
         <a class="dropdown-item" href="eligibility.php">Eligibility</a>
+        <a class="dropdown-item" href="Allcampaign.php">Campaign</a>
         <a class="dropdown-item" href="faq.php">FAQ</a>
         </div>
       </li>

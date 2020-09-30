@@ -185,15 +185,19 @@
 	</div>
 <br>
 <br>
-	<div>
+	
+</section>
+
+<div class="jumbotron ourservices text-center">
+<div>
 		<h1> Become A Part Of Great Work Today </h1>
 		<p>You can give blood at any of our blood donation venues all over the world.<br>
 We have total sixty thousands donor centers and visit thousands of other venues on various occasions.</p>
 <br>
 	</div>
-	<div> <a href="#" class="btn btn-danger text-center">JOIN WITH US</a></div>
+	<div> <a href="Donate money\payment.php" class="btn btn-danger text-center">DONATE TK-1000 For Our Free Campaign</a></div>
 
-</section>
+</div>
 <br>
 <br>
 
