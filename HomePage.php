@@ -89,7 +89,7 @@
 	<div class="col-lg-4 col-md-4 col-12">
 	<div class="card">
   <img class="card-img-top" src="Image-up\image1.jpg" alt="Card image">
-  <a href="#" class="btn btn-warning  text-uppercase ">Dhaka</a>
+  <a href="#" class="btn btn-secondary btn-block  text-uppercase ">Dhaka</a>
 		</div>
 		
 	</div>
@@ -97,7 +97,7 @@
 <div class="col-lg-4 col-md-4 col-12">
 	<div class="card">
   <img class="card-img-top" src="Image-up\image5.jpeg" alt="Card image">
-  		<a href="#" class="btn btn-warning text-uppercase ">Chittagong</a>
+  		<a href="#" class="btn btn-secondary btn-block text-uppercase ">Chittagong</a>
 	</div>
 	
 </div>
@@ -105,28 +105,28 @@
 		<div class="col-lg-4 col-md-4 col-12">
 				<div class="card">
 			  <img class="card-img-top" src="Image-up\image2.jpeg" alt="Card image">
-				<a href="#" class="btn btn-warning  text-uppercase">Rajshahi</a>
+				<a href="#" class="btn btn-secondary btn-block  text-uppercase">Rajshahi</a>
 				</div>
 				
 		</div>
 			<div class="col-lg-4 col-md-4 col-12">
 				<div class="card">
 			  <img class="card-img-top" src="Image-up\image11.jpg" alt="Card image">
-				<a href="#" class="btn btn-warning text-uppercase">Sylhet</a>
+				<a href="#" class="btn btn-secondary btn-block text-uppercase">Sylhet</a>
 				</div>
 				
 			</div>
 			<div class="col-lg-4 col-md-4 col-12">
 				<div class="card">
 			  <img class="card-img-top" src="Image-up\image12.jpg" alt="Card image">
-				<a href="#" class="btn btn-warning text-uppercase ">Khulna</a>
+				<a href="#" class="btn btn-secondary  btn-block text-uppercase ">Khulna</a>
 				</div>
 				
 			</div>
 			<div class="col-lg-4 col-md-4 col-12">
 				<div class="card">
 			  <img class="card-img-top" src="Image-up\image13.jpg" alt="Card image">
-				<a href="#" class="btn btn-warning text-uppercase">Rangpur</a>
+				<a href="#" class="btn btn-secondary  btn-block text-uppercase">Rangpur</a>
 				</div>
 				
 			</div>
@@ -195,10 +195,12 @@
 We have total sixty thousands donor centers and visit thousands of other venues on various occasions.</p>
 <br>
 	</div>
-	<div> <a href="Donate money\payment.php" class="btn btn-danger text-center">DONATE TK-1000 For Our Free Campaign</a></div>
+	<div> <a href="Donate money\payment.php" class="btn btn-danger text-center">
+	DONATE TK-1000 For Our Free Campaign</a></div>
 
 </div>
 <br>
 <br>
+
 
 <?php include("includes/footer.php")  ?>

@@ -7,10 +7,7 @@
 
 
 
-
 <div class="jumbotron">
-
-
   <h1 class="display-4">ALL CAMPAIGNS</h1>
   <br>
   <p class="lead">Encourage new donors to join and continue to give blood. We have total sixty thousands donor centers and visit thousands of other venues on various occasions.</p>

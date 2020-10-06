@@ -49,7 +49,7 @@ if(isset($_POST['submit'])) {
 		 <form class="reg-box border-warning" action="" method="post">
 
      
-			<h3 class="text-capitalize text-center text-white p-md-4">Login as Admin</h3>
+			<h3 class="text-capitalize text-center text-white p-md-4">Login as Volunteer</h3>
 			<div class="w-50 m-auto">
   
   <div class="form-group">

@@ -15,7 +15,7 @@
         <a class="nav-link text-danger" href="HomePage.php">Home <span class="sr-only">(current)</span></a>
       </li>
       <li class="nav-item">
-        <a class="nav-link text-white" href="#">Find Donor</a>
+        <a class="nav-link text-white" href="Donor Filtering.php">Find Donor</a>
       </li>
       <li class="nav-item">
         <a class="nav-link text-danger" href="DonorReg.php">Donate Blood</a>
@@ -24,7 +24,7 @@
         <a class="nav-link text-white" href="BloodRequest.php">BloodRequest</a>
       </li>
       <li class="nav-item">
-        <a class="nav-link text-danger" href="#">Blood Bank</a>
+        <a class="nav-link text-danger" href="Blood-Bank.php">Blood Bank</a>
       </li>
       <li class="nav-item dropdown">
         <a class="nav-link dropdown-toggle text-white" href="#" id="dropdownId" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Pages</a>
