@@ -23,8 +23,9 @@
 <div class="w3-sidebar  w3-black w3-bar-block" style="width:15%">
   <h4 class="w3-bar-item" >Dashboard</h4>
   <a href="HomePage.php" class="w3-bar-item w3-button">Home</a>
-  <a href="#" class="w3-bar-item w3-button">Donor list</a>
+  <a href="Donor Filtering.php" class="w3-bar-item w3-button">Donor list</a>
   <a href="#" class="w3-bar-item w3-button">Blood Request</a>
+  <a href="datamodify.php" class="w3-bar-item w3-button">Ban Mamber</a>
   <a href="#" class="w3-bar-item w3-button">Blog Post</a>
   <a href="#" class="w3-bar-item w3-button">Campaign Galery</a>
   <a href="#" class="w3-bar-item w3-button ">Profile</a>

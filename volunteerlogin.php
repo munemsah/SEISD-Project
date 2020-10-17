@@ -22,7 +22,7 @@ if(isset($_POST['submit'])) {
            
 		$result = mysqli_query($conn, "SELECT * FROM  volunteerreg WHERE email='$email' AND password=md5('$pass')")
 					or die("Could not execute the select query.");
-
+ 
 					
 		$row = mysqli_fetch_assoc($result);
 		if(is_array($row) && !empty($row)) {
